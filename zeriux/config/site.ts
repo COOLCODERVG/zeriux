@@ -4,6 +4,8 @@ export const siteConfig = {
   getStartedUrl:
     "https://zeriuxlabs.com/",
   ogImage: "https://i.ibb.co/Jw5ndb19/launch-ui-removebg-preview.png",
+  description:
+    "Glasses",
   links: {
     twitter: "#",
     github: "#",
