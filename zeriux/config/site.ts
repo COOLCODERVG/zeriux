@@ -3,9 +3,7 @@ export const siteConfig = {
   url: "https://zeriuxlabs.com/",
   getStartedUrl:
     "https://zeriuxlabs.com/",
-  ogImage: "https://launchuicomponents.com/og.jpg",
-  description:
-    "Landing page components built with React, Shadcn/ui and Tailwind that will make your website feel premium.",
+  ogImage: "https://i.ibb.co/Jw5ndb19/launch-ui-removebg-preview.png",
   links: {
     twitter: "#",
     github: "#",
