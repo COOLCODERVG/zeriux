@@ -3,8 +3,7 @@
 import { useTheme } from "next-themes";
 
 export default function MainMockup() {
-  const { resolvedTheme } = useTheme();
-  let placeholderText = "Demo Video Placeholder";
+  const placeholderText = "Demo Video Placeholder";
 
   return (
     <div

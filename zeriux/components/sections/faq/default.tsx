@@ -54,7 +54,7 @@ export default function FAQ({
       answer: (
         <>
           <p className="text-muted-foreground mb-4 max-w-[580px]">
-            Our glasses are designed to work anywhere—whether you're in a
+            Our glasses are designed to work anywhere—whether you&apos;re in a
             business meeting, a classroom, a social gathering, or a public
             space. They help bridge communication gaps effortlessly.
           </p>

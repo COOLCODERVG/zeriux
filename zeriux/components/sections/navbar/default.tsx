@@ -30,8 +30,7 @@ interface NavbarProps {
   homeUrl?: string;
   mobileLinks?: NavbarLink[];
   actions?: NavbarActionProps[];
-  showNavigation?: boolean;
-  customNavigation?: ReactNode;
+
 }
 
 export default function Navbar({
@@ -46,8 +45,7 @@ export default function Navbar({
       variant: "default",
     },
   ],
-  showNavigation = true,
-  customNavigation,
+  
 }: NavbarProps) {
   return (
     <header className="sticky top-0 z-50 -mb-4 px-4 pb-4">
