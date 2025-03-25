@@ -5,7 +5,6 @@ import { Section } from "../../ui/section";
 import { Mockup, MockupFrame } from "../../ui/mockup";
 import Glow from "../../ui/glow";
 import { siteConfig } from "@/config/site";
-import Github from "../../logos/github";
 import { ReactNode } from "react";
 import MainMockup from "../../mockups/main";
 

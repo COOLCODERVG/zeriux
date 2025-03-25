@@ -5,8 +5,6 @@ import {
   AccordionTrigger,
   AccordionContent,
 } from "../../ui/accordion";
-import Link from "next/link";
-import { siteConfig } from "@/config/site";
 import { ReactNode } from "react";
 
 interface FAQItemProps {

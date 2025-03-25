@@ -1,11 +1,10 @@
-import Navigation from "../../ui/navigation";
 import { Button, type ButtonProps } from "../../ui/button";
 import {
   Navbar as NavbarComponent,
   NavbarLeft,
   NavbarRight,
 } from "../../ui/navbar";
-import { Sheet, SheetContent, SheetTrigger } from "../../ui/sheet";
+import { Sheet, SheetTrigger } from "../../ui/sheet";
 import { Menu } from "lucide-react";
 import LaunchUI from "../../logos/launch-ui";
 import { siteConfig } from "@/config/site";
