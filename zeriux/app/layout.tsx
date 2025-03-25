@@ -22,8 +22,8 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: "Mikolaj Dobrucki",
-      url: "https://mikolajdobrucki.com",
+      name: "Hello World",
+      url: "https://hello.com",
     },
   ],
   creator: "mikolajdobrucki",
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     images: [siteConfig.ogImage],
-    creator: "@mikolajdobrucki",
+    creator: "@hello",
   },
   icons: {
     icon: "/favicon.svg",
